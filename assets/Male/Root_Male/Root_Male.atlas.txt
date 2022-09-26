@@ -1,0 +1,174 @@
+
+Root_Male.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/M_B_Hair_1
+  rotate: true
+  xy: 2, 637
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+Body/M_Angel_Body
+  rotate: true
+  xy: 931, 68
+  size: 178, 339
+  orig: 178, 339
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage_Body
+  rotate: false
+  xy: 1544, 958
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage_back_arm1
+  rotate: false
+  xy: 1420, 1052
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage_back_arm2
+  rotate: true
+  xy: 627, 2
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage_back_coat
+  rotate: false
+  xy: 1544, 1436
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage_back_leg
+  rotate: false
+  xy: 1844, 962
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage_fore_arm1
+  rotate: false
+  xy: 1272, 32
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage_fore_arm2
+  rotate: true
+  xy: 1508, 821
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage_fore_coat
+  rotate: true
+  xy: 1844, 686
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_mage_fore_hand
+  rotate: false
+  xy: 813, 233
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage_fore_leg
+  rotate: true
+  xy: 942, 1034
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_1
+  rotate: true
+  xy: 813, 351
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_1
+  rotate: false
+  xy: 2, 18
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+Head/M_Angel_Head
+  rotate: false
+  xy: 942, 248
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+Weapon/axe
+  rotate: false
+  xy: 2, 1271
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+back_arm1/M_Angel_back_arm1
+  rotate: true
+  xy: 1432, 100
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+back_arm2/M_Angel_back_arm2
+  rotate: false
+  xy: 1946, 1842
+  size: 99, 185
+  orig: 99, 185
+  offset: 0, 0
+  index: -1
+back_hand/M_Angel_back_hand
+  rotate: false
+  xy: 1946, 1573
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+back_leg/M_Angel_back_leg
+  rotate: false
+  xy: 1508, 186
+  size: 149, 498
+  orig: 149, 498
+  offset: 0, 0
+  index: -1
+fore_arm1/M_Angel_fore_arm1
+  rotate: false
+  xy: 1946, 1673
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+fore_arm2/M_Angel_fore_arm2
+  rotate: true
+  xy: 1614, 729
+  size: 90, 190
+  orig: 90, 190
+  offset: 0, 0
+  index: -1
+fore_hand/M_Angel_fore_hand
+  rotate: true
+  xy: 1508, 718
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+fore_leg/M_Angel_fore_leg
+  rotate: false
+  xy: 627, 159
+  size: 184, 476
+  orig: 184, 476
+  offset: 0, 0
+  index: -1

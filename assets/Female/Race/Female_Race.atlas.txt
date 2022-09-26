@@ -1,0 +1,496 @@
+
+Female_Race.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body/FM_Angel_Body
+  rotate: true
+  xy: 1464, 498
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Devil_Body
+  rotate: true
+  xy: 1618, 892
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Elf_Body
+  rotate: false
+  xy: 1841, 1065
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Human_Body
+  rotate: true
+  xy: 1618, 744
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Orc_Body
+  rotate: true
+  xy: 551, 270
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Steamborg_Body
+  rotate: false
+  xy: 832, 137
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Body/FM_Undead_Body
+  rotate: false
+  xy: 980, 137
+  size: 146, 279
+  orig: 146, 279
+  offset: 0, 0
+  index: -1
+Head/FM_Angel_Head
+  rotate: false
+  xy: 2, 1435
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Devil_Head
+  rotate: true
+  xy: 2, 969
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Elf_Head
+  rotate: true
+  xy: 468, 1554
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Human_Head
+  rotate: false
+  xy: 587, 884
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Orc_Head
+  rotate: false
+  xy: 2, 384
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Steamborg_Head
+  rotate: true
+  xy: 1053, 1554
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+Head/FM_Undead_Head
+  rotate: true
+  xy: 553, 418
+  size: 464, 583
+  orig: 464, 583
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Angel_back_arm1
+  rotate: true
+  xy: 1778, 1472
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Elf_back_arm1
+  rotate: true
+  xy: 1778, 1472
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Devil_back_arm1
+  rotate: false
+  xy: 85, 164
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Human_back_arm1
+  rotate: false
+  xy: 85, 20
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Orc_back_arm1
+  rotate: true
+  xy: 484, 199
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Steamborg_back_arm1
+  rotate: false
+  xy: 628, 126
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Undead_back_arm1
+  rotate: false
+  xy: 484, 55
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Angel_back_arm2
+  rotate: true
+  xy: 990, 1471
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Elf_back_arm2
+  rotate: true
+  xy: 990, 1471
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Devil_back_arm2
+  rotate: false
+  xy: 468, 727
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Human_back_arm2
+  rotate: false
+  xy: 468, 572
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Orc_back_arm2
+  rotate: false
+  xy: 468, 417
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Steamborg_back_arm2
+  rotate: true
+  xy: 1145, 1471
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Undead_back_arm2
+  rotate: true
+  xy: 1300, 1471
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+back_hand/FM_Angel_back_hand
+  rotate: false
+  xy: 1922, 1525
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Devil_back_hand
+  rotate: false
+  xy: 2, 85
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Elf_back_hand
+  rotate: false
+  xy: 243, 301
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Human_back_hand
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Orc_back_hand
+  rotate: false
+  xy: 326, 301
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Steamborg_back_hand
+  rotate: false
+  xy: 401, 194
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_hand/FM_Undead_back_hand
+  rotate: false
+  xy: 308, 118
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+back_leg/FM_Angel_back_leg
+  rotate: true
+  xy: 1053, 887
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Devil_back_leg
+  rotate: true
+  xy: 1447, 1346
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Elf_back_leg
+  rotate: false
+  xy: 1638, 1608
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Human_back_leg
+  rotate: false
+  xy: 1918, 1608
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Orc_back_leg
+  rotate: false
+  xy: 1138, 475
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Steamborg_back_leg
+  rotate: true
+  xy: 1138, 350
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+back_leg/FM_Undead_back_leg
+  rotate: false
+  xy: 1263, 475
+  size: 123, 410
+  orig: 123, 410
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Angel_fore_arm1
+  rotate: true
+  xy: 1638, 1525
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Devil_fore_arm1
+  rotate: true
+  xy: 1455, 1471
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Elf_fore_arm1
+  rotate: true
+  xy: 1778, 1543
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Human_fore_arm1
+  rotate: true
+  xy: 1618, 661
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Orc_fore_arm1
+  rotate: false
+  xy: 468, 277
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Steamborg_fore_arm1
+  rotate: false
+  xy: 160, 244
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Undead_fore_arm1
+  rotate: false
+  xy: 2, 168
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Angel_fore_arm2
+  rotate: false
+  xy: 1388, 729
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Devil_fore_arm2
+  rotate: false
+  xy: 1388, 571
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Elf_fore_arm2
+  rotate: true
+  xy: 1859, 1396
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Human_fore_arm2
+  rotate: true
+  xy: 2, 308
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Orc_fore_arm2
+  rotate: true
+  xy: 243, 201
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Steamborg_fore_arm2
+  rotate: false
+  xy: 156, 86
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Undead_fore_arm2
+  rotate: false
+  xy: 232, 43
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Angel_fore_hand
+  rotate: true
+  xy: 468, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Devil_fore_hand
+  rotate: true
+  xy: 555, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Elf_fore_hand
+  rotate: false
+  xy: 468, 882
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Human_fore_hand
+  rotate: true
+  xy: 642, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Orc_fore_hand
+  rotate: true
+  xy: 729, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Steamborg_fore_hand
+  rotate: true
+  xy: 816, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Undead_fore_hand
+  rotate: true
+  xy: 903, 1469
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Angel_fore_leg
+  rotate: true
+  xy: 1053, 1318
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Devil_fore_leg
+  rotate: true
+  xy: 1053, 1165
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Elf_fore_leg
+  rotate: true
+  xy: 1053, 1012
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Human_fore_leg
+  rotate: true
+  xy: 1447, 1193
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Orc_fore_leg
+  rotate: true
+  xy: 1447, 1040
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Steamborg_fore_leg
+  rotate: false
+  xy: 1763, 1626
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Undead_fore_leg
+  rotate: false
+  xy: 1465, 646
+  size: 151, 392
+  orig: 151, 392
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,601 @@
+
+Male_Class.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/M_assassin_Body
+  rotate: true
+  xy: 1016, 808
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid_Body
+  rotate: true
+  xy: 1354, 785
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer_Body
+  rotate: true
+  xy: 1692, 785
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter_Body
+  rotate: true
+  xy: 2, 666
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight_Body
+  rotate: true
+  xy: 340, 640
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage_Body
+  rotate: true
+  xy: 678, 640
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk_Body
+  rotate: true
+  xy: 1016, 595
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate_Body
+  rotate: true
+  xy: 1354, 572
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest_Body
+  rotate: true
+  xy: 1692, 572
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman_Body
+  rotate: true
+  xy: 2, 453
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin_back_arm1
+  rotate: true
+  xy: 2, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid_back_arm1
+  rotate: true
+  xy: 157, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer_back_arm1
+  rotate: true
+  xy: 312, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_hunter_back_arm1
+  rotate: true
+  xy: 467, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight_back_arm1
+  rotate: true
+  xy: 622, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage_back_arm1
+  rotate: true
+  xy: 777, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_monk_back_arm1
+  rotate: true
+  xy: 932, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate_back_arm1
+  rotate: true
+  xy: 1087, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest_back_arm1
+  rotate: true
+  xy: 1242, 1849
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin_back_arm2
+  rotate: true
+  xy: 1304, 1726
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid_back_arm2
+  rotate: true
+  xy: 1476, 1726
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer_back_arm2
+  rotate: true
+  xy: 1648, 1726
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_hunter_back_arm2
+  rotate: true
+  xy: 1820, 1726
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight_back_arm2
+  rotate: true
+  xy: 2, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage_back_arm2
+  rotate: true
+  xy: 174, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk_back_arm2
+  rotate: true
+  xy: 346, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate_back_arm2
+  rotate: true
+  xy: 518, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest_back_arm2
+  rotate: true
+  xy: 690, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman_back_arm2
+  rotate: true
+  xy: 862, 1641
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_druid_back_coat
+  rotate: true
+  xy: 340, 355
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_engineer_back_coat
+  rotate: true
+  xy: 759, 310
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_hunter_back_coat
+  rotate: true
+  xy: 1178, 287
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_knight_back_coat
+  rotate: true
+  xy: 1597, 287
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage_back_coat
+  rotate: true
+  xy: 2, 70
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_pirate_back_coat
+  rotate: true
+  xy: 421, 25
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_priest_back_coat
+  rotate: true
+  xy: 1259, 2
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_shaman_back_coat
+  rotate: true
+  xy: 840, 2
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin_back_leg
+  rotate: true
+  xy: 197, 1363
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid_back_leg
+  rotate: true
+  xy: 532, 1360
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer_back_leg
+  rotate: true
+  xy: 867, 1334
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter_back_leg
+  rotate: true
+  xy: 1202, 1334
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight_back_leg
+  rotate: true
+  xy: 1537, 1334
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage_back_leg
+  rotate: true
+  xy: 2, 1218
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk_back_leg
+  rotate: true
+  xy: 337, 1215
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate_back_leg
+  rotate: true
+  xy: 672, 1189
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest_back_leg
+  rotate: true
+  xy: 1007, 1189
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman_back_leg
+  rotate: true
+  xy: 1342, 1189
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin_fore_arm1
+  rotate: true
+  xy: 1034, 1638
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid_fore_arm1
+  rotate: true
+  xy: 1187, 1612
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer_fore_arm1
+  rotate: true
+  xy: 1340, 1612
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter_fore_arm1
+  rotate: true
+  xy: 1493, 1612
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight_fore_arm1
+  rotate: true
+  xy: 1646, 1612
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage_fore_arm1
+  rotate: true
+  xy: 1799, 1612
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_monk_fore_arm1
+  rotate: true
+  xy: 2, 1527
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate_fore_arm1
+  rotate: true
+  xy: 155, 1527
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest_fore_arm1
+  rotate: true
+  xy: 308, 1527
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin_fore_arm2
+  rotate: true
+  xy: 1397, 1837
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid_fore_arm2
+  rotate: true
+  xy: 1583, 1837
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer_fore_arm2
+  rotate: true
+  xy: 1769, 1837
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter_fore_arm2
+  rotate: true
+  xy: 2, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight_fore_arm2
+  rotate: true
+  xy: 188, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage_fore_arm2
+  rotate: true
+  xy: 374, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk_fore_arm2
+  rotate: true
+  xy: 560, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate_fore_arm2
+  rotate: true
+  xy: 746, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest_fore_arm2
+  rotate: true
+  xy: 932, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman_fore_arm2
+  rotate: true
+  xy: 1118, 1752
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin_fore_coat
+  rotate: false
+  xy: 461, 1508
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_engineer_fore_coat
+  rotate: false
+  xy: 656, 1508
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter_fore_coat
+  rotate: false
+  xy: 851, 1505
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight_fore_coat
+  rotate: false
+  xy: 1046, 1479
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage_fore_coat
+  rotate: false
+  xy: 1241, 1479
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk_fore_coat
+  rotate: false
+  xy: 1436, 1479
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_pirate_fore_coat
+  rotate: false
+  xy: 1631, 1479
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest_fore_coat
+  rotate: false
+  xy: 1826, 1479
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman_fore_coat
+  rotate: false
+  xy: 2, 1394
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin_fore_leg
+  rotate: true
+  xy: 1677, 1166
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid_fore_leg
+  rotate: true
+  xy: 2, 1047
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer_fore_leg
+  rotate: true
+  xy: 340, 1021
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter_fore_leg
+  rotate: true
+  xy: 678, 1021
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight_fore_leg
+  rotate: true
+  xy: 1016, 1021
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage_fore_leg
+  rotate: true
+  xy: 1354, 998
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk_fore_leg
+  rotate: true
+  xy: 1692, 998
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate_fore_leg
+  rotate: true
+  xy: 2, 879
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest_fore_leg
+  rotate: true
+  xy: 340, 853
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman_fore_leg
+  rotate: true
+  xy: 678, 853
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1

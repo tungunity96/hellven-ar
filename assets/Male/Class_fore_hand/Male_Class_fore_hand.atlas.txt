@@ -1,0 +1,48 @@
+
+Male_Class_fore_hand.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_fore_hand/M_assassin_fore_hand
+  rotate: false
+  xy: 141, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_engineer_fore_hand
+  rotate: false
+  xy: 2, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_hunter_fore_hand
+  rotate: false
+  xy: 280, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_knight_fore_hand
+  rotate: false
+  xy: 419, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_mage_fore_hand
+  rotate: false
+  xy: 697, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Class_fore_hand/M_monk_fore_hand
+  rotate: false
+  xy: 558, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

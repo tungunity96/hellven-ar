@@ -1,0 +1,188 @@
+
+Root_Female.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_8
+  rotate: false
+  xy: 2, 350
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+Body/FM_Angel_Body
+  rotate: true
+  xy: 1114, 148
+  size: 178, 339
+  orig: 178, 339
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage_Body
+  rotate: true
+  xy: 2, 50
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage_back_arm1
+  rotate: false
+  xy: 1702, 446
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_mage_back_arm2
+  rotate: false
+  xy: 1455, 85
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage_back_coat
+  rotate: false
+  xy: 1544, 1455
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage_back_leg
+  rotate: true
+  xy: 480, 139
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage_fore_arm1
+  rotate: false
+  xy: 954, 127
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage_fore_arm2
+  rotate: true
+  xy: 480, 2
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage_fore_coat
+  rotate: true
+  xy: 1612, 69
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_hand/FM_engineer_fore_hand
+  rotate: false
+  xy: 1830, 1337
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage_fore_leg
+  rotate: true
+  xy: 636, 343
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_1
+  rotate: false
+  xy: 1544, 1337
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_8
+  rotate: true
+  xy: 1202, 665
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+Head/FM_Angel_Head
+  rotate: false
+  xy: 636, 580
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_8
+  rotate: false
+  xy: 1946, 1822
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_8
+  rotate: false
+  xy: 1946, 1606
+  size: 79, 214
+  orig: 79, 214
+  offset: 0, 0
+  index: -1
+Weapon/axe
+  rotate: false
+  xy: 2, 1290
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Angel_back_arm1
+  rotate: true
+  xy: 1122, 62
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Angel_back_arm2
+  rotate: true
+  xy: 743, 38
+  size: 99, 185
+  orig: 99, 185
+  offset: 0, 0
+  index: -1
+back_hand/FM_Angel_back_hand
+  rotate: false
+  xy: 1692, 346
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+back_leg/FM_Angel_back_leg
+  rotate: true
+  xy: 1202, 514
+  size: 149, 498
+  orig: 149, 498
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Angel_fore_arm1
+  rotate: false
+  xy: 1592, 345
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Angel_fore_arm2
+  rotate: true
+  xy: 930, 35
+  size: 90, 190
+  orig: 90, 190
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Angel_fore_hand
+  rotate: true
+  xy: 1297, 45
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Angel_fore_leg
+  rotate: true
+  xy: 1114, 328
+  size: 184, 476
+  orig: 184, 476
+  offset: 0, 0
+  index: -1

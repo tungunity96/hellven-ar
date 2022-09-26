@@ -1,0 +1,62 @@
+
+Female_Eye.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes/FM_Eyes_1
+  rotate: false
+  xy: 2, 278
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_2
+  rotate: false
+  xy: 2, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_3
+  rotate: false
+  xy: 338, 278
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_4
+  rotate: false
+  xy: 2, 2
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_5
+  rotate: false
+  xy: 338, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_6
+  rotate: false
+  xy: 674, 278
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_7
+  rotate: false
+  xy: 338, 2
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_8
+  rotate: false
+  xy: 674, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1

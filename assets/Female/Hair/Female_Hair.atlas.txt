@@ -1,0 +1,251 @@
+
+Female_Hair.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_1
+  rotate: true
+  xy: 1330, 1010
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_10
+  rotate: true
+  xy: 2, 297
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_11
+  rotate: true
+  xy: 501, 2
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_12
+  rotate: true
+  xy: 1000, 2
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_2
+  rotate: true
+  xy: 2, 969
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_3
+  rotate: false
+  xy: 501, 803
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_4
+  rotate: true
+  xy: 837, 674
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_5
+  rotate: true
+  xy: 1336, 674
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_6
+  rotate: true
+  xy: 2, 633
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_7
+  rotate: true
+  xy: 501, 338
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_8
+  rotate: true
+  xy: 1000, 338
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_9
+  rotate: true
+  xy: 1499, 338
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_1
+  rotate: false
+  xy: 1309, 1675
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_10
+  rotate: false
+  xy: 334, 1305
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_11
+  rotate: false
+  xy: 666, 1302
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_12
+  rotate: false
+  xy: 998, 1017
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_2
+  rotate: false
+  xy: 1641, 1675
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_3
+  rotate: false
+  xy: 2, 1634
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_4
+  rotate: false
+  xy: 334, 1634
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_5
+  rotate: false
+  xy: 666, 1631
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_6
+  rotate: false
+  xy: 998, 1346
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_7
+  rotate: false
+  xy: 1330, 1346
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_8
+  rotate: false
+  xy: 1662, 1346
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_9
+  rotate: false
+  xy: 2, 1305
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_1
+  rotate: true
+  xy: 2, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_12
+  rotate: true
+  xy: 728, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_2
+  rotate: true
+  xy: 123, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_4
+  rotate: true
+  xy: 244, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_5
+  rotate: true
+  xy: 365, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_6
+  rotate: true
+  xy: 486, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_8
+  rotate: true
+  xy: 607, 1963
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_10
+  rotate: true
+  xy: 1194, 1960
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_4
+  rotate: true
+  xy: 849, 1960
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_7
+  rotate: true
+  xy: 964, 1960
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_8
+  rotate: true
+  xy: 1079, 1960
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1

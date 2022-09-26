@@ -1,0 +1,90 @@
+
+Male_Hair.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/M_B_Hair_1
+  rotate: true
+  xy: 2, 667
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/M_B_Hair_2
+  rotate: true
+  xy: 501, 667
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/M_B_Hair_3
+  rotate: true
+  xy: 1000, 667
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/M_B_Hair_4
+  rotate: false
+  xy: 1499, 504
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/M_B_Hair_5
+  rotate: true
+  xy: 2, 331
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+B_Hair/M_B_Hair_6
+  rotate: true
+  xy: 501, 331
+  size: 334, 497
+  orig: 334, 497
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_1
+  rotate: true
+  xy: 1000, 335
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_2
+  rotate: false
+  xy: 1329, 175
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_3
+  rotate: true
+  xy: 1000, 3
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_4
+  rotate: true
+  xy: 1661, 172
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_5
+  rotate: false
+  xy: 2, 2
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1
+F_Hair/M_F_Hair_6
+  rotate: false
+  xy: 334, 2
+  size: 330, 327
+  orig: 330, 327
+  offset: 0, 0
+  index: -1

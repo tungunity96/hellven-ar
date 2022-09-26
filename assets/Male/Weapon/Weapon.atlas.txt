@@ -1,0 +1,140 @@
+
+Weapon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/axe
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/bow
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/crossbow
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/dagger
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/doubleaxe
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/greatsword
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/gun
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/mace
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/magicstaff
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/scythe
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/shortsword
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/spear
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Weapon7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/sword
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/wand
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
